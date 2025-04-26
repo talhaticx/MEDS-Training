@@ -2,7 +2,7 @@
 
 ## Module 0
 
-* Ubuntu Installed
+* Ubuntu [Linux]
 * Bash and Bash Scripting
 * Git
 * Vim and VS code
