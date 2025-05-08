@@ -4,6 +4,6 @@ py:
 
 c:
 	clear
-	rm -f bin/exp_C
-	gcc C/exp.c -o bin/exp_C -lm
-	./bin/exp_C
+	rm -f bin/exp_taylor_C
+	gcc C/exp_taylor.c -o bin/exp_taylor_C -lm
+	./bin/exp_taylor_C
