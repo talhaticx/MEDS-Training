@@ -19,4 +19,8 @@ def sqrt_bs(x):
     return (low + high) / 2
 
 # Example Usage
-print([(x, sqrt_bs(x)) for x in range(15)]) 
+results = [(x, sqrt_bs(x)) for x in range(26)]
+
+# Print results in a readable format
+for x, result in results:
+    print(f"Input: {x}, Square Root: {result}")
