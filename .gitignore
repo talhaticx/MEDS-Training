@@ -1,2 +1,5 @@
 *.vcd
 obj_dir
+OnurYT/
+extras/
+*.o
