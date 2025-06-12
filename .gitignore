@@ -5,3 +5,4 @@ extras/
 *.o
 bin/
 *.odt
+*.pdf
