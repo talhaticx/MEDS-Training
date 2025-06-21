@@ -6,3 +6,6 @@ extras/
 bin/
 *.odt
 *.pdf
+*.png
+
+.vscode
